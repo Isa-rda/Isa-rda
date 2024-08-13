@@ -1,8 +1,7 @@
 ## Boas vindas ao meu perfil  💙
-
-
-<!--
-** Meu nome é Isabelly Rodrigues*
+Meu nome é Isabelly Rodrigues
+Tenho 15 anos 
+Estudo na escola Parque Jurema III
 
 - Estou edutando na Alura 
 - Estou me desenvolvendo na linguagem JavaScript
